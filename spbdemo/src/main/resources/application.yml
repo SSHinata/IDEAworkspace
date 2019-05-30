@@ -1,0 +1,8 @@
+#服务器的端口号
+#server:
+#  port:
+name: zhangsan
+person:
+  addr: shanghai
+  name: lisi
+  age: 23
